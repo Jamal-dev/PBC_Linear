@@ -1,0 +1,7 @@
+Transverse_x,2.6243829338371902e-05
+Transverse_y,0.9082051334879409
+Transverse_z,0.748454972973726
+Isotropy,0.8116093177447843
+Otrhotropy,2.214260337263459e-05
+Monotropy,2.214260337263459e-05
+Symmetry error,Symmetry Error norm((C+C^T)/2.0 - C)/norm(C) =    0.0022143%

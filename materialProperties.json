@@ -1,0 +1,19 @@
+{"modulus":
+  { 
+    "Ef": 241e3,
+    "Em": 3.12e3
+    },
+
+"poisson_ratio":
+   {
+    "nu_f": 0.2,
+   "nu_m": 0.38
+   },
+
+"diameter_fiber": 7.0,
+
+"volume_fraction_fiber": 0.4,
+
+"num_mesh_elements_r": 10,
+"num_mesh_eleemnts_z": 10
+}
